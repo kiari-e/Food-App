@@ -44,9 +44,9 @@ export default Menu;
 const SliderButtons = () => {
   const swiper = useSwiper();
   return (
-    <div className="menu-button">
-      <button>&lt;</button>
-      <button>&gt;</button>
+    <div className="flexCenter menu-buttons">
+      <button onClick={()=>swiper.slidePrev()}>&lt;</button>
+      <button onClick={()=>swiper.slideNext()}>&gt;</button>
     </div>
   );
 };
