@@ -1,37 +1,37 @@
 [
   {
     "name": "Wagyu",
-    "price": "47,043",
+    "price": "109",
     "detail": "Delicious Wagyu Steak",
     "image": "/public/wagyu-steak.jpg"
   },
   {
     "name": "Ramen",
-    "price": "66,353",
+    "price": "60",
     "detail": "Delicious Ramen",
     "image": "/public/ramen.avif"
   },
   {
     "name": "Chicken Salad",
-    "price": "35,853",
+    "price": "35",
     "detail": "Delicious Chicken Salad",
-    "image": "/public/chicken-salad.jpg"
+    "image": "/public/chicken_salad1.jpg"
   },
   {
     "name": "Pepperoni Pizza",
-    "price": "47,043",
+    "price": "29",
     "detail": "Delicious Pepperoni Pizza",
     "image": "/public/pepperoni-pizza.jpeg"
   },
   {
     "name": "The Burger",
-    "price": "66,353",
+    "price": "20",
     "detail": "Delicious Burger",
-    "image": "/public/burger.jpg"
+    "image": "/public/burger-fries.avif"
   },
   {
     "name": "Corndogs",
-    "price": "35,853",
+    "price": "12",
     "detail": "Delicious Corndogs",
     "image": "/public/corndogs.jpg"
   }
