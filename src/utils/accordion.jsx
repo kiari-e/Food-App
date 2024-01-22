@@ -3,21 +3,21 @@ import { MdCancel, MdAnalytics } from "react-icons/md";
 const data = [
   {
     icon: <HiShieldCheck/>,
-    heading: "Best interest rates on the market",
+    heading: "Global Fusion Cuisine",
     detail:
-      "Exercitation in fugiat est ut ad ea cupidatat ut in cupidatat occaecat ut occaecat consequat est minim minim esse tempor laborum consequat esse adipisicing eu reprehenderit enim.",
+      "At Culinary Canvas we invite you to a global culinary journey. Our chef's draw ispiration from diverse cuisines that sparks excitement and takes you on a ride on the world of flavour.",
   },
   {
     icon: <MdCancel />,
-    heading: "Prevent unstable prices",
+    heading: "Farm to Table Freshness",
     detail:
-      "Exercitation in fugiat est ut ad ea cupidatat ut in cupidatat occaecat ut occaecat consequat est minim minim esse tempor laborum consequat esse adipisicing eu reprehenderit enim.",
+      "At the heart of Culinary Canvas wea are commited to using fresh, seasonal and locally harvested ingredients that set us apartas we celebrate the beauty of farm-to-table dining.",
   },
   {
     icon: <MdAnalytics />,
-    heading: "Best price on the market",
+    heading: "Casual Elegance",
     detail:
-      "Exercitation in fugiat est ut ad ea cupidatat ut in cupidatat occaecat ut occaecat consequat est minim minim esse tempor laborum consequat esse adipisicing eu reprehenderit enim.",
-  },
+      "Discover the perfect blend of casual charm and culinary excellence at Culinary Canvas. Our inviting atmosphere welcomes you to unwind and savour delectable dishes made with love and care.",
+  }
 ];
 export default data;
