@@ -4,6 +4,8 @@ import "./App.css"
 import Menu from "./components/Menu/Menu";
 import Value from "./components/Value/Value";
 import Contact from "./components/Contacts/Contact";
+import GetStarted from "./components/GetStarted/GetStarted";
+import Footer from "./components/Footer/Footer";
 
 function App() {
   return (
@@ -16,6 +18,8 @@ function App() {
         <Menu />
         <Value />
         <Contact />
+        <GetStarted />
+        <Footer />
     </div>
     );
 }
