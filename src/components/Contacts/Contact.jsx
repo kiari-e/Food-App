@@ -87,7 +87,7 @@ const Contact = () => {
             {/* right-side */}
             <div className="c-right">
                 <div className="image-container">
-                    <img src="./contact-image.jpeg" alt="" />
+                    <img src="./contacts_image.jpg" alt="" />
                 </div>
             </div>
         </div>

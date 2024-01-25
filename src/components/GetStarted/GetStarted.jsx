@@ -10,7 +10,7 @@ const GetStarted = () => {
           <span className="secondaryText">
           Stay Connected with Culinary Canvas.
                     <br />
-                    Join Our Culinary Community for Exclusive Updates, Special offers and more!.
+                    Join Our Culinary Community for Exclusive Updates, Special offers and more!
           </span>
           <button className="button">
             <a href="mailto:kiariebrandon24@gmail.com">
