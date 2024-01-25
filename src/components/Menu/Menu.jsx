@@ -7,7 +7,7 @@ import { sliderSettings } from "../../utils/common";
 
 const Menu = () => {
   return (
-    <section className="r-wrapper">
+    <section className="r-wrapper" id="menu">
       <div className="paddings innerWidth menu-container">
         <div className="menu-header flexColStart">
           <span className="orangeText">Edible Poetry</span>

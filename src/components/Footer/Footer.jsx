@@ -3,11 +3,11 @@ import "./Footer.css";
 
 const Footer = () => {
   return (
-    <section className="f-wrapper">
+    <section className="f-wrapper" id="footer">
       <div className="paddings innerWidth flexCenter f-container">
         {/* left-side */}
         <div className="flexColStart f-left">
-          <img src="/cc_logo.png" alt="" width={120} />
+          <img src="/cc_dark_logo.png" alt="" width={120} />
 
           <span className="secondaryText">
             Operating Hours
@@ -24,10 +24,10 @@ const Footer = () => {
           <span className="secondaryText">United Nations Ave, Nairobi</span>
 
           <div className="flexCenter f-menu">
-            <span>Menu</span>
-            <span>Our Values</span>
-            <span>Contact Us</span>
-            <span>Get Started</span>
+          <a href="#menu">Menu</a>
+          <a href="#OurValue">Our Values</a>
+          <a href="#Contact">Contact Us</a>
+          <a href="#GetStarted">Get Started</a>
           </div>
         </div>
       </div>
