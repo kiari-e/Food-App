@@ -24,7 +24,7 @@ const Menu = () => {
                 <img src={card.image} alt="" />
 
                 <span className="secondaryText">
-                  <span style={{ color: "orange" }}>$ </span>
+                  <span style={{ color: "orange" }}>Ksh </span>
                   <span className="secondaryText menu-price">{card.price}</span>
                 </span>
 
